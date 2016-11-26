@@ -3,6 +3,10 @@
 > For developers:
 > Please write the latest log on top
 
+### Version 1.0.0
+1.Use REST client to get port data from our server.
+2.Change all the functions to call REST server.
+
 ### Version 0.0.8
 1. Make shopping "alive", add and cancel orders.
 2. Present the order summary.
